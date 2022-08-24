@@ -1,1 +1,3 @@
-Topics Taxonomy README
+This repository is meant to be a place to reference the current and past versions of the topics taxonomy for apps released as part of the Android Privacy Sandbox. In this repo are markdown files for each iteration of the Taxonomy with their version number appended to the end of the filename.
+
+This Taxonomy has been hand curated with the goal of delivering a list of useful categories which apply to app users, and is subject to change based on feedback across the ecosystem. If you have suggestions for changes to make to the Taxonomy, feel free to file an issue in this repo, or better yet to submit a ticket through our Android Developer Feedback Form.
