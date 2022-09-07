@@ -13,4 +13,4 @@ their version number appended to the end of the filename.
   Suggestions can be filed via the [feedback form][2].
 
 [1]: https://github.com/privacysandbox/topics-android
-[2]: https://b.corp.google.com/issues/new?component=1116743&template=1636967
+[2]: https://issuetracker.google.com/issues/new?component=1116743&template=1636967
